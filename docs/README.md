@@ -11,3 +11,9 @@
 | 5 | Інтеграція MediaProjection, Accessibility API та модуля SMS-тригерів | Березень 2027 | To Do |
 | 6 | Інструментальний аудит, тестування відмовостійкості та оптимізація Latency | Квітень 2027 | To Do |
 | 7 | Фінальне розгортання, нормоконтроль, передзахист та оформлення записки | Травень 2027 | To Do |
+
+
+https://docs.google.com/document/d/1YcCRiCPKcv8h5pRdqH0wBPpjSa2p2lH-QjhUGUmJeoM/edit?usp=sharing
+
+
+RPS: 500, Latency: <200ms, Auth: OAuth 2.0
